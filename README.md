@@ -32,6 +32,7 @@ pip install pandas scikit-learn matplotlib seaborn jupyter numpy
 ```
 
 ## Project Structure
+
 ├── QCM-Alcohol.ipynb              # Main analysis notebook
 ├── data/
 │   └── QCM Sensor Alcohol Dataset/  # CSV files
